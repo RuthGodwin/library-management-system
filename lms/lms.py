@@ -1,6 +1,8 @@
 '''
 Library Management System
 @author: Ruth Godwin-Okoh
+
+Repository: https://github.com/RuthGodwin/library-management-system.git
 '''
 
 
