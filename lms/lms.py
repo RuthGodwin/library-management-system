@@ -1,5 +1,6 @@
 '''
 Library Management System
+CLI - Command Line
 @author: Ruth Godwin-Okoh
 
 Repository: https://github.com/RuthGodwin/library-management-system.git
